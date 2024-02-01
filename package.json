@@ -1,16 +1,21 @@
 {
   "dependencies": {
     "@expo-google-fonts/sora": "^0.2.3",
-    "@expo/metro-runtime": "^3.1.2",
+    "@expo/metro-runtime": "~3.1.1",
     "@expo/vector-icons": "^14.0.0",
+    "@react-native-firebase/app": "^18.8.0",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/stack": "^6.3.20",
     "expo": "^50.0.1",
+    "expo-font": "~11.10.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.73.2",
+    "react-native-calendars": "^1.1303.0",
     "react-native-web": "~0.19.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.19.3"
+    "@babel/core": "^7.20.0"
   },
   "scripts": {
     "start": "expo start",
